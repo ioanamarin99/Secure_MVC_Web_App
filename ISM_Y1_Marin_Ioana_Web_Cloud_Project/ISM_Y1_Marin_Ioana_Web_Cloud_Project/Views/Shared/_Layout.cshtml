@@ -1,0 +1,30 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <title>@ViewBag.Title</title>
+</head>
+<body>
+    <nav class="navbar bg-light navbar-expand-sm">
+    <div class="container-fluid">
+        <span class="navbar-brand mb-0">Manage your employees responsabilities</span>
+        <div class="d-sm-inline-flex justify-content-between">
+            <partial name="_LoginPartial" />
+        </div>
+    </div>
+</nav>
+    <div>
+        @RenderBody()
+    </div>
+    @RenderSection("Scripts",false)
+</body>
+</html>
+
+   <style>
+    body {background-color: #89c6f0;} 
+    h1 {text-align: center;}
+    p {text-align: center;}
+    div {text-align: center;}
+</style>

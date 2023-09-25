@@ -1,0 +1,108 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ISM_Y1_Marin_Ioana_Web_Cloud_Project
+build_property.RootNamespace = ISM_Y1_Marin_Ioana_Web_Cloud_Project
+build_property.ProjectDir = C:\Users\Iuana\Desktop\Master\web&cloud\asp net\ISM_Y1_Marin_Ioana_Web_Cloud_Project\ISM_Y1_Marin_Ioana_Web_Cloud_Project\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Iuana\Desktop\Master\web&cloud\asp net\ISM_Y1_Marin_Ioana_Web_Cloud_Project\ISM_Y1_Marin_Ioana_Web_Cloud_Project
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Iuana/Desktop/Master/web&cloud/asp net/ISM_Y1_Marin_Ioana_Web_Cloud_Project/ISM_Y1_Marin_Ioana_Web_Cloud_Project/Areas/Identity/Pages/Account/Lockout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2Nrb3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Iuana/Desktop/Master/web&cloud/asp net/ISM_Y1_Marin_Ioana_Web_Cloud_Project/ISM_Y1_Marin_Ioana_Web_Cloud_Project/Areas/Identity/Pages/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Iuana/Desktop/Master/web&cloud/asp net/ISM_Y1_Marin_Ioana_Web_Cloud_Project/ISM_Y1_Marin_Ioana_Web_Cloud_Project/Areas/Identity/Pages/Account/Logout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Iuana/Desktop/Master/web&cloud/asp net/ISM_Y1_Marin_Ioana_Web_Cloud_Project/ISM_Y1_Marin_Ioana_Web_Cloud_Project/Areas/Identity/Pages/Account/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Iuana/Desktop/Master/web&cloud/asp net/ISM_Y1_Marin_Ioana_Web_Cloud_Project/ISM_Y1_Marin_Ioana_Web_Cloud_Project/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Iuana/Desktop/Master/web&cloud/asp net/ISM_Y1_Marin_Ioana_Web_Cloud_Project/ISM_Y1_Marin_Ioana_Web_Cloud_Project/Areas/Identity/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Iuana/Desktop/Master/web&cloud/asp net/ISM_Y1_Marin_Ioana_Web_Cloud_Project/ISM_Y1_Marin_Ioana_Web_Cloud_Project/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Iuana/Desktop/Master/web&cloud/asp net/ISM_Y1_Marin_Ioana_Web_Cloud_Project/ISM_Y1_Marin_Ioana_Web_Cloud_Project/Views/Employees/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Iuana/Desktop/Master/web&cloud/asp net/ISM_Y1_Marin_Ioana_Web_Cloud_Project/ISM_Y1_Marin_Ioana_Web_Cloud_Project/Views/Employees/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Iuana/Desktop/Master/web&cloud/asp net/ISM_Y1_Marin_Ioana_Web_Cloud_Project/ISM_Y1_Marin_Ioana_Web_Cloud_Project/Views/Employees/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Iuana/Desktop/Master/web&cloud/asp net/ISM_Y1_Marin_Ioana_Web_Cloud_Project/ISM_Y1_Marin_Ioana_Web_Cloud_Project/Views/Employees/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Iuana/Desktop/Master/web&cloud/asp net/ISM_Y1_Marin_Ioana_Web_Cloud_Project/ISM_Y1_Marin_Ioana_Web_Cloud_Project/Views/Employees/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Iuana/Desktop/Master/web&cloud/asp net/ISM_Y1_Marin_Ioana_Web_Cloud_Project/ISM_Y1_Marin_Ioana_Web_Cloud_Project/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Iuana/Desktop/Master/web&cloud/asp net/ISM_Y1_Marin_Ioana_Web_Cloud_Project/ISM_Y1_Marin_Ioana_Web_Cloud_Project/Views/Jobs/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9ic1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Iuana/Desktop/Master/web&cloud/asp net/ISM_Y1_Marin_Ioana_Web_Cloud_Project/ISM_Y1_Marin_Ioana_Web_Cloud_Project/Views/Jobs/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9ic1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Iuana/Desktop/Master/web&cloud/asp net/ISM_Y1_Marin_Ioana_Web_Cloud_Project/ISM_Y1_Marin_Ioana_Web_Cloud_Project/Views/Jobs/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9ic1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Iuana/Desktop/Master/web&cloud/asp net/ISM_Y1_Marin_Ioana_Web_Cloud_Project/ISM_Y1_Marin_Ioana_Web_Cloud_Project/Views/Jobs/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9ic1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Iuana/Desktop/Master/web&cloud/asp net/ISM_Y1_Marin_Ioana_Web_Cloud_Project/ISM_Y1_Marin_Ioana_Web_Cloud_Project/Views/Jobs/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9ic1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Iuana/Desktop/Master/web&cloud/asp net/ISM_Y1_Marin_Ioana_Web_Cloud_Project/ISM_Y1_Marin_Ioana_Web_Cloud_Project/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Iuana/Desktop/Master/web&cloud/asp net/ISM_Y1_Marin_Ioana_Web_Cloud_Project/ISM_Y1_Marin_Ioana_Web_Cloud_Project/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Iuana/Desktop/Master/web&cloud/asp net/ISM_Y1_Marin_Ioana_Web_Cloud_Project/ISM_Y1_Marin_Ioana_Web_Cloud_Project/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Iuana/Desktop/Master/web&cloud/asp net/ISM_Y1_Marin_Ioana_Web_Cloud_Project/ISM_Y1_Marin_Ioana_Web_Cloud_Project/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Iuana/Desktop/Master/web&cloud/asp net/ISM_Y1_Marin_Ioana_Web_Cloud_Project/ISM_Y1_Marin_Ioana_Web_Cloud_Project/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
